@@ -14,7 +14,7 @@ despite being financially active. This project builds an Alternative
 Credit Scoring Model that uses mobile money behaviour and alternative 
 data to predict credit risk for unbanked Kenyans.
 
-**Live Dashboard:** [Click Here To Try It](https://styling-uncapped-flaxseed.ngrok-free.dev/)
+**Live Dashboard:** [Click Here To Try It](https://alternative-credit-scoring-upgraded-yukj8ejcyvcbbbyyau7zzp.streamlit.app/)
 
 
 ## 💡 Business Case
