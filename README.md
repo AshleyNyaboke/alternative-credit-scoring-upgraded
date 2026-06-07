@@ -1,4 +1,4 @@
-# alternative-credit-scoring-upgraded
+
 # 🤝 Credit For All Kenyans — Alternative Credit Scoring Model
 
 > Predicting credit risk for boda boda riders, mama mbogas, 
