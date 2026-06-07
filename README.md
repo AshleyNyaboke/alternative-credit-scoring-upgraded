@@ -7,7 +7,7 @@
 
 
 
-## 🎯 Project Overview
+##  Project Overview
 
 Millions of hardworking Kenyans are locked out of formal credit 
 despite being financially active. This project builds an Alternative 
@@ -41,16 +41,6 @@ A boda boda rider who transacts frequently on mobile money
 is more creditworthy than someone with higher income but 
 low mobile money activity.
 
-
-## 🗂️ Project Structure
-alternative-credit-scoring-upgraded/
-│
-├── Alternative_Credit_Scoring_Upgraded.ipynb
-├── credit_app.py
-├── requirements.txt
-└── README.md
----
-
 ## 🚀 How To Run Locally
 
 ```bash
@@ -78,10 +68,9 @@ streamlit run credit_app.py
 **Ashley Nyaboke Kibwogo**
 Junior Data Scientist | Nairobi, Kenya
 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ashley-nyaboke/)
 💻 [GitHub](https://github.com/AshleyNyaboke)
 
-
----
 
 *Built with 💙 for Kenya's financial inclusion future*
