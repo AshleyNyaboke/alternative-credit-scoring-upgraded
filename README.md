@@ -43,3 +43,45 @@ low mobile money activity.
 
 
 ## 🗂️ Project Structure
+alternative-credit-scoring-upgraded/
+│
+├── Alternative_Credit_Scoring_Upgraded.ipynb
+├── credit_app.py
+├── requirements.txt
+└── README.md
+---
+
+## 🚀 How To Run Locally
+
+```bash
+git clone https://github.com/AshleyNyaboke/alternative-credit-scoring-upgraded.git
+cd alternative-credit-scoring-upgraded
+pip install -r requirements.txt
+streamlit run credit_app.py
+```
+
+
+## 📦 Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| Python | Core programming |
+| Pandas & NumPy | Data generation |
+| Scikit-learn | ML models |
+| Matplotlib | Visualisation |
+| Streamlit | Interactive dashboard |
+
+---
+
+## 👩🏾‍💻 About The Author
+
+**Ashley Nyaboke Kibwogo**
+Junior Data Scientist | Nairobi, Kenya
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ashley-nyaboke/)
+💻 [GitHub](https://github.com/AshleyNyaboke)
+
+
+---
+
+*Built with 💙 for Kenya's financial inclusion future*
